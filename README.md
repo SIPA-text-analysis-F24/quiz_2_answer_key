@@ -37,7 +37,7 @@
 ### **Answer Key for Natural Language Processing and NLTK Quiz Questions**
 
 1. **What does it mean to treat "text as data" in Natural Language Processing (NLP)?**
-   - **B) Converting text into a numerical form so it can be analyzed computationally.**
+   - **B) Converting text into a format that can be analyzed computationally.**
 
 2. **Which of the following is the main goal of Natural Language Processing (NLP)?**
    - **B) To enable computers to understand, interpret, and respond to human language.**
